@@ -1,0 +1,28 @@
+name: jeffwaites
+favicon: null
+layout_spectrum: 0.060145511757582426
+typography_spectrum: 0.28073620330542326
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6001062598079443
+  lightness: 0.837980475043878
+  saturation: 0.7086340158712119
+  rhythmicContrast: 0.8911479094531387
+purpose: []
